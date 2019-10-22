@@ -28,7 +28,7 @@
 
 UIEF is framework for extending UI of  Business Central interface (Web, Tablet, Windows, Mobile)
 
-* Creat your interface for Microsoft Dynamics 365 Business Central
+* Creat your interface for Microsoft Dynamics 365 Business Central using Html/JS/CSS.
 * Develop UI components (HTML/JS/CSS) in Microsoft Dynamics 365 Business Central.
 * Build interface in AL code.
 * Set transparent link events to AL (CAL) code.
