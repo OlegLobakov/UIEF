@@ -23,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About UIEF
 
-[![UIEF Screen Shot][product-screenshot]]()
+[![UIEF Screen Shot][product-screenshot]](https://github.com/OlegLobakov/UIEF/blob/master/GithubFiles/UIEF.ElementCard.pn)
 
 UIEF is framework for extending UI of  Business Central interface (Web, Tablet, Windows, Mobile)
 
