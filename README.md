@@ -71,7 +71,7 @@ Microsoft Dynamics NAV 2015, 2016, 2017, 2018
 ![UIEF Screen Shot](https://github.com/OlegLobakov/UIEF/blob/master/GithubFiles/UIEF.ElementsList.png)
 
 2. You can use components in AL code.
-![UIEF Screen Shot](https://github.com/OlegLobakov/UIEF/blob/master/GithubFiles/UIEF.Programming.pn)
+![UIEF Screen Shot](https://github.com/OlegLobakov/UIEF/blob/master/GithubFiles/UIEF.Programming.png)
 
 3. UI work on all platform.
 ![UIEF Screen Shot](https://github.com/OlegLobakov/UIEF/blob/master/GithubFiles/UIEF.Result.png)
