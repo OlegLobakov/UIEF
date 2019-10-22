@@ -1,0 +1,28 @@
+{
+  "id": "c1eabccf-301f-44f4-8088-b0badb3b67f4",
+  "name": "UIEF",
+  "publisher": "Lobakov oleg",
+  "version": "1.0.0.0",
+  "brief": "Create your UI",
+  "description": "User Interface Extension Framework for Business Central",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://FAE.com/help/",
+  "showMyCode": true,
+  "runtime": "3.2",
+  "target": "Extension",
+  "features": [ "TranslationFile" ]
+}

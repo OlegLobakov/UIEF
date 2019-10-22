@@ -1,0 +1,22 @@
+﻿#controlAddIn {
+    background-color: #ffffff;
+}
+
+.errormsg {
+    background-color: #ffffff;
+    font-size : 8;
+}
+
+.caAddIn {
+    background-color: #ffffff;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+}
