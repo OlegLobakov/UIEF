@@ -23,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About UIEF
 
-[UIEF Screen Shot][product-screenshot](https://github.com/OlegLobakov/UIEF/blob/master/GithubFiles/UIEF.ElementCard.png)
+[![UIEF Screen Shot][product-screenshot]]()
 
 UIEF is framework for extending UI of  Business Central interface (Web, Tablet, Windows, Mobile)
 
@@ -67,14 +67,14 @@ Microsoft Dynamics NAV 2015, 2016, 2017, 2018
 
 1. UI Element Card Page is using to develop UI component. By default, UIEF install several demo components of Microsoft Office Fabric JS library.
 
-[UIEF Screen Shot][elementlist-screenshot](https://github.com/OlegLobakov/UIEF/blob/master/GithubFiles/UIEF.ElementsList.png)
+[![UIEF Screen Shot][elementlist-screenshot]]()
 
 2. You can use components in AL code.
-[UIEF Screen Shot][elementdev-screenshot](https://github.com/OlegLobakov/blob/master/UIEF/GithubFiles/UIEF.Programming.png)
+[![UIEF Screen Shot][elementdev-screenshot]]()
 
 3. UI work on all platform.
-[UIEF Screen Shot][result-screenshot](https://github.com/OlegLobakov/UIEF/blob/master/GithubFiles/UIEF.Result.png)
-[UIEF Screen Shot][result2--screenshot](https://github.com/OlegLobakov/UIEF/blob/master/GithubFiles/UIEF.Result2.png)
+[![UIEF Screen Shot][result-screenshot]]()
+[![UIEF Screen Shot][result2--screenshot]]()
 
 ### Builtin javascript frameworks
 This libs will be imported in NAV | BC and can be used without internet.
