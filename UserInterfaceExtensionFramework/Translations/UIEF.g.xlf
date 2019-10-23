@@ -148,6 +148,101 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit UIEF - Method LoadCSSFromFile - NamedType SelectImportHTMLFilenameMsg</note>
         </trans-unit>
+        <trans-unit id="Page 1247318937 - NamedType 71776919" size-unit="char" translate="no" xml:space="preserve">
+          <source>OUIF-BTN-C</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExampleUIEF - NamedType OUIFBtnTok</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Output,Edit,Build,Functions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a code for the UI Element.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description for the UI Element.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Control 739346273 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description for the UI Element.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Control 3003898253 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Link to element description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Control 3121606945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HTML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control htmlsubform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Control 3480481421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Javascript</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control jssubform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Control 1421604627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CSS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control csssubform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Control 2862937989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control uieffb - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Control 234599461 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Events</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control eventsfb - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Action 176562519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Action 176562519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View UI element</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action View - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Action 4254856415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action Copy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Action 4254856415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy UI Element</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action Copy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Action 3201496503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action Import - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Action 3201496503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import UI Element from xml file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action Import - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Action 36190024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action Export - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 992351874 - Action 36190024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export UI Element to xml file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action Export - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 3725390535 - Action 3235577787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>-</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -237,6 +332,71 @@
           <source>Import CSS lines from *.txt file</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page UI Element CSS Subform - Action Import - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3339380580 - Control 2862937989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Control uieffb - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3339380580 - Action 176562519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3339380580 - Action 176562519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View UI element</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action View - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3339380580 - Action 4254856415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action Copy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3339380580 - Action 4254856415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy UI Element</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action Copy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3339380580 - Action 3201496503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action Import - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3339380580 - Action 3201496503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import UI Elements from xml file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action Import - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3339380580 - Action 36190024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action Export - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3339380580 - Action 36190024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export UI Elements to xml file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action Export - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316624596 - Action 389138476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete All Events</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Events Factbox - Action DeleteAll - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316624596 - Action 389138476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete events from list</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Events Factbox - Action DeleteAll - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1455790215 - Action 1574802503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HTML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Viewer Factbox - Action HTML - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1455790215 - Action 1574802503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get HTML of container</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Viewer Factbox - Action HTML - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2222910176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Copy UI Element Wizard</source>
@@ -407,166 +567,6 @@
           <source>Select an existing UI Element.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Copy UI Element Wizard - NamedType SelectExistUIElementCodeErr</note>
-        </trans-unit>
-        <trans-unit id="Page 1247318937 - NamedType 71776919" size-unit="char" translate="no" xml:space="preserve">
-          <source>OUIF-BTN-C</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page ExampleUIEF - NamedType OUIFBtnTok</note>
-        </trans-unit>
-        <trans-unit id="Page 3339380580 - Control 2862937989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>View</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Control uieffb - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3339380580 - Action 176562519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>View</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action View - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3339380580 - Action 176562519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>View UI element</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action View - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3339380580 - Action 4254856415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Copy</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action Copy - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3339380580 - Action 4254856415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Copy UI Element</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action Copy - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3339380580 - Action 3201496503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Import</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action Import - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3339380580 - Action 3201496503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Import UI Elements from xml file.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action Import - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3339380580 - Action 36190024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Export</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action Export - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3339380580 - Action 36190024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Export UI Elements to xml file.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element List - Action Export - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2316624596 - Action 389138476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Delete All Events</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Events Factbox - Action DeleteAll - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2316624596 - Action 389138476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Delete events from list</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Events Factbox - Action DeleteAll - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1455790215 - Action 1574802503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>HTML</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Viewer Factbox - Action HTML - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 1455790215 - Action 1574802503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Get HTML of container</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Viewer Factbox - Action HTML - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
-          <source>New,Process,Report,Output,Edit,Build,Functions</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Property PromotedActionCategories</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies a code for the UI Element.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control Code - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies a description for the UI Element.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control Description - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Control 739346273 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies a description for the UI Element.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control Group - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Control 3003898253 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Link to element description</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control URL - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Control 3121606945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>HTML</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control htmlsubform - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Control 3480481421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Javascript</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control jssubform - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Control 1421604627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>CSS</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control csssubform - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Control 2862937989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>View</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control uieffb - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Control 234599461 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Events</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Control eventsfb - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Action 176562519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>View</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action View - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Action 176562519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>View UI element</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action View - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Action 4254856415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Copy</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action Copy - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Action 4254856415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Copy UI Element</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action Copy - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Action 3201496503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Import</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action Import - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Action 3201496503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Import UI Element from xml file.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action Import - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Action 36190024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Export</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action Export - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 992351874 - Action 36190024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Export UI Element to xml file.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page UI Element Card - Action Export - Property ToolTip</note>
         </trans-unit>
       </group>
     </body>
