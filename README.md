@@ -6,7 +6,7 @@
   </a>
   <h2 align="center">User Interface Extension Framework</h2>
   <p align="center">
-  for Microsoft Dynamics 365 Business Central and Microsoft Dynamics NAV
+  for Microsoft Dynamics 365 Business Central
   </p> 
 </p>
 <br />
